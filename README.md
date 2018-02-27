@@ -1,1 +1,1 @@
-"# Yum-Offline-Install-On-Centos7" 
+this shell demostrated that offline install sofewares
