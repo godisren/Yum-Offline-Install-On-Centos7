@@ -1,1 +1,1 @@
-this shell demostrate offline installation of sofewares
+this shell demostrates offline installation of packages
